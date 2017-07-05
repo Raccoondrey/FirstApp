@@ -1,0 +1,8 @@
+
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ë‡Š
+>squid:S1481")Remove this unused "opop" local variable.(äÄ¨‘
+Osquid:S1118":Add a private constructor to hide the implicit public one.(ÃØúŞ
+Msquid:S1854"8Remove this useless assignment to local variable "opop".(äÄ¨‘
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãœŞ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‡Çûã

@@ -1,0 +1,10 @@
+
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(æ–İ€ÿÿÿÿÿ
+Asquid:S1481",Remove this unused "theSize" local variable.(—û
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(šßÍ»úÿÿÿÿ
+Psquid:S1854";Remove this useless assignment to local variable "theSize".(—û
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‡Çûã
+Psquid:UselessImportCheck".Remove this unused import 'java.util.Objects'.(¼¸õ›
+5squid:S2129" Remove this "String" constructor(İä¥Ô
+:squid:S2129" Remove this "String" constructor(®íí—ÿÿÿÿÿ
